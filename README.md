@@ -20,8 +20,10 @@ Este projeto foi desenvolvido como parte do curso Fullstack Pro do <a href="http
 
 ## 🖥️ Demonstração
 
-<!-- Substitua o link abaixo por uma imagem ou gif do projeto -->
-![Demonstração do Projeto](https://via.placeholder.com/800x400.png?text=Screenshot+do+Projeto)
+<h3>DESKTOP</h3>
+<img align="center" src="https://github.com/ViniVentura94/DevClub-Cadastro-Usuarios/blob/main/src/assets/DesktopHome.png" alt="print-desktop-site">
+<h3>MOBILE</h3>
+<img align="center" src="https://github.com/ViniVentura94/DevClub-Cadastro-Usuarios/blob/main/src/assets/MobileHome.png" alt="print-mobile-site">
 
 ## 📦 Como Executar o Projeto
 
