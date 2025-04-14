@@ -10,12 +10,19 @@ Este projeto foi desenvolvido como parte do curso Fullstack Pro do <a href="http
 - Styled Components
 - Axios
 - Vite
+- Node.js + Express (backend)
+- MongoDB (banco de dados)
 
 ## ⚙️ Funcionalidades
 
 - Cadastro de novos usuários com nome, idade, telefone, e-mail e gênero.
+- Geração automática de avatar com base no gênero selecionado:
+  - Masculino → avatar masculino
+  - Feminino → avatar feminino
+  - Outros → avatar neutro
 - Listagem de usuários cadastrados.
 - Edição e exclusão de usuários.
+- Conexão com MongoDB para armazenamento dos dados.
 - Validações de formulário para garantir dados consistentes.
 
 ## 🖥️ Demonstração
@@ -25,22 +32,8 @@ Este projeto foi desenvolvido como parte do curso Fullstack Pro do <a href="http
 <h3>MOBILE</h3>
 <img align="center" src="https://github.com/ViniVentura94/DevClub-Cadastro-Usuarios/blob/main/src/assets/MobileHome.png" alt="print-mobile-site">
 
-## 📦 Como Executar o Projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/ViniVentura94/DevClub-Cadastro-Usuarios.git
-
-# Acesse a pasta do projeto
-cd DevClub-Cadastro-Usuarios
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
-
-```
 ## 👨‍💻 Autor
 
 Vinicius Ventura :wave: [Entre em contato!](https://www.linkedin.com/in/vinicius-ventura-passos/)
+
+✨ Obrigado por visitar este repositório! Fique à vontade para deixar uma ⭐ se esse projeto te ajudou ou inspirou.
