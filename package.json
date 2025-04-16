@@ -1,6 +1,5 @@
-
 {
-  "homepage": "https://viniventura94.github.io/DevClub-Cadastro-Usuarios",
+  "homepage": "https://ViniVentura94.github.io/DevClub-Cadastro-Usuarios",
   "name": "devclub-cadastro-usuarios",
   "private": true,
   "version": "0.0.0",
@@ -15,7 +14,6 @@
   },
   "dependencies": {
     "axios": "^1.8.4",
-    "gh-pages": "^6.3.0",
     "prop-types": "^15.8.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -33,6 +31,7 @@
     "eslint": "^9.21.0",
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   }
